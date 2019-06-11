@@ -46,7 +46,7 @@ module.exports = function (config) {
                 console.log('invalid action', package.action);
             }
         } catch(e){
-            console.log('Format error', massage);
+            console.log('Format error', message);
         }
 
     }
