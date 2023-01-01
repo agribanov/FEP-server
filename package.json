@@ -22,7 +22,7 @@
   "homepage": "https://github.com/agribanov/FEP-server#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "config": "^2.0.1",
+    "config": "^3.3.8",
     "cors": "^2.8.4",
     "express": "^4.16.3",
     "ws": "^7.0.0"
